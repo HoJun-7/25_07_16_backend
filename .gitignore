@@ -1,0 +1,4 @@
+git rm --cached model/disease_model_saved_weight.pt
+git rm --cached model/hygiene_model_saved_weight.pt
+git rm --cached model/tooth_number_saved_weight.pt
+git commit -m "❌ 모델 파일 Git 추적 해제"
